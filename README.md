@@ -3,7 +3,7 @@ MessagePack JSON-RPC Client for Ruby
 Basic support for RPC Calls in this initial version, more will follow later.
 JSON-RPC 2.0 specification, but payload is encoded using MessagePack
 
-Gemfile:
+Gemfile (source ---> http://www.rubygems.org/ )
 ```ruby
 gem "messagepack-jsonrpc-ruby"
 ```
